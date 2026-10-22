@@ -1,0 +1,20 @@
+{
+  "name": "1.0.5",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mateusk4/Avenida-Joao-Pessoa#readme",
+  "bugs": {
+    "url": "https://github.com/mateusk4/Avenida-Joao-Pessoa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusk4/Avenida-Joao-Pessoa.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
